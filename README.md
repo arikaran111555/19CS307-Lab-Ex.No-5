@@ -32,4 +32,4 @@ To compose the HTML code to display five different images ( 2 on Crops and 2 on 
 
 
 
- # Result : Thus the above equations were formatted by HTML tags as indicated and the required output was obtained.
+ # Result : Thus the relevant images were displayed and made clickable by HTML tags as indicated and the required output was obtained.
