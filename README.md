@@ -1,5 +1,5 @@
 # 19CS307-Lab-Ex.No-5
-# Clickable Image
+# Clickable Images
 # Date : 28-09-2022
 # AIM :
 To compose the HTML code to display five different images ( 2 on Crops and 2 on Machines and 1 on Fertilizer required ) :
